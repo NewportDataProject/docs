@@ -36,6 +36,10 @@ Everyone brings something to the Project. If you're a front end developer, we pr
 
 The bottom line is you don't need to be an expert in anything to help out. Even if you are an expert in something, you can try something completely different. Whatever you want!
 
+#### Project Teams and Working Groups
+
+For large, complicated, or in-depth projects, we may form a project team or working group. Project teams are a little more formal. They develop a plan and work to it, and have a definitive end product. Working groups are similar to teams in that they have a formalized structure, but they may be focused on persistent or long term topics, like maintaining Project documentation, the website, or a tool package.
+
 
 
 ## Places
