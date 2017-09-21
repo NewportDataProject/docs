@@ -30,7 +30,7 @@ If you're just looking to jump right in, here are some quick links to get starte
 
 ## People
 
-This is a volunteer Project - we contribute because we want to. In that sense, we do whatever we want on this Project. Maybe you're looking for some data to try out the latest machine learning toolbox out on, or you want to learn how to build a website, or you want to see how much money is budgeted per pothole in the city. All of these are fair game, and there is probably someone else who is interested or can help.
+This is a volunteer Project - we contribute because we want to. In that sense, we do whatever we want on this Project. Maybe you're looking for some data to try out the latest machine learning toolbox on, or you want to learn how to build a website, or you want to see how much money is budgeted per pothole in the city. All of these are fair game, and there is probably someone else who is interested or can help.
 
 Everyone brings something to the Project. If you're a front end developer, we probably have a website or app that needs tuned up. If you're a ship captain who studies urban planning, you can probably point out things the rest of us might not have thought about. If you're a statistician who wants an excuse to walk around Newport, we are always looking for map data! 
 
