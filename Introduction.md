@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Introduction
 ---
 
@@ -32,7 +33,7 @@ If you're just looking to jump right in, here are some quick links to get starte
 
 This is a volunteer Project - we contribute because we want to. In that sense, we do whatever we want on this Project. Maybe you're looking for some data to try out the latest machine learning toolbox on, or you want to learn how to build a website, or you want to see how much money is budgeted per pothole in the city. All of these are fair game, and there is probably someone else who is interested or can help.
 
-Everyone brings something to the Project. If you're a front end developer, we probably have a website or app that needs tuned up. If you're a ship captain who studies urban planning, you can probably point out things the rest of us might not have thought about. If you're a statistician who wants an excuse to walk around Newport, we are always looking for map data! 
+Everyone brings something to the Project. If you're a front end developer, we probably have a website or app that needs tuned up. If you're a ship captain who studies urban planning, you can probably point out things the rest of us might not have thought about. If you're a statistician who wants an excuse to walk around Newport, we are always looking for map data!
 
 The bottom line is you don't need to be an expert in anything to help out. Even if you are an expert in something, you can try something completely different. Whatever you want!
 
@@ -76,7 +77,7 @@ Here are a some of the more common tools we use in the Project. Don't limit your
 * [Python](https://www.python.org) - One of the favored programming languages we use for a lot of our projects.
   * [Pandas](https://pandas.pydata.org/about.html) - a workhorse Python library for data analysis
   * [Anaconda](https://www.anaconda.com) - a Python distribution and environment manager tailored for data science
-* [Kobotoolbox](https://www.kobotoolbox.org) - A free survey tool, geared towards field work. 
+* [Kobotoolbox](https://www.kobotoolbox.org) - A free survey tool, geared towards field work.
 * [OpenStreetMap](http://openstreetmap.org) - An open, community built world map with an API to download geospatial data.
 * [QGIS](https://www.qgis.org) - A free, open source Geospatial Information System for making maps and analyzing geospatial data.
 
@@ -86,4 +87,3 @@ Here are a some of the more common tools we use in the Project. Don't limit your
 
 * **Documentation** - The docs repository has guides on how to get started programming, how to manage a project, and a bunch of other things.
 * **Slack** - If you have a quick question, or something that you can't find in the docs, ask in the slack workspace.
-

@@ -1,0 +1,10 @@
+# Site information
+title: Newport Data Project Docs Repo
+description: Organization documentation for the Newport Data Project
+baseurl: "/docs"
+org_name: Newport Data Project
+url: "http://newportdataproject.org"
+
+# build information
+markdown: kramdown
+repository: newportdataproject/docs
